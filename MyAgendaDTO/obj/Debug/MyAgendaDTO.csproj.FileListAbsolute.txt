@@ -1,0 +1,12 @@
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\MyAgendaDTO\bin\Debug\MyAgendaDTO.dll
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\MyAgendaDTO\bin\Debug\MyAgendaDTO.pdb
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\MyAgendaDTO\obj\Debug\MyAgendaDTO.csprojAssemblyReference.cache
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\MyAgendaDTO\obj\Debug\MyAgendaDTO.csproj.CoreCompileInputs.cache
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\MyAgendaDTO\obj\Debug\MyAgendaDTO.dll
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\MyAgendaDTO\obj\Debug\MyAgendaDTO.pdb
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\MyAgendaDTO\bin\Debug\MyAgendaDTO.dll
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\MyAgendaDTO\bin\Debug\MyAgendaDTO.pdb
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\MyAgendaDTO\obj\Debug\MyAgendaDTO.csprojAssemblyReference.cache
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\MyAgendaDTO\obj\Debug\MyAgendaDTO.csproj.CoreCompileInputs.cache
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\MyAgendaDTO\obj\Debug\MyAgendaDTO.dll
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\MyAgendaDTO\obj\Debug\MyAgendaDTO.pdb

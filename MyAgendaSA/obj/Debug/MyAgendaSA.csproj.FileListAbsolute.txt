@@ -1,0 +1,18 @@
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\MyAgendaSA\bin\Debug\MyAgendaSA.dll
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\MyAgendaSA\bin\Debug\MyAgendaSA.pdb
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\MyAgendaSA\bin\Debug\MyAgendaDTO.dll
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\MyAgendaSA\bin\Debug\MyAgendaDTO.pdb
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\MyAgendaSA\obj\Debug\MyAgendaSA.csprojAssemblyReference.cache
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\MyAgendaSA\obj\Debug\MyAgendaSA.csproj.CoreCompileInputs.cache
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\MyAgendaSA\obj\Debug\MyAgendaSA.csproj.CopyComplete
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\MyAgendaSA\obj\Debug\MyAgendaSA.dll
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\MyAgendaSA\obj\Debug\MyAgendaSA.pdb
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\MyAgendaSA\bin\Debug\MyAgendaSA.dll
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\MyAgendaSA\bin\Debug\MyAgendaSA.pdb
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\MyAgendaSA\bin\Debug\MyAgendaDTO.dll
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\MyAgendaSA\bin\Debug\MyAgendaDTO.pdb
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\MyAgendaSA\obj\Debug\MyAgendaSA.csprojAssemblyReference.cache
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\MyAgendaSA\obj\Debug\MyAgendaSA.csproj.CoreCompileInputs.cache
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\MyAgendaSA\obj\Debug\MyAgendaSA.csproj.CopyComplete
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\MyAgendaSA\obj\Debug\MyAgendaSA.dll
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\MyAgendaSA\obj\Debug\MyAgendaSA.pdb

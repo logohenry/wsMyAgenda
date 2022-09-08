@@ -1,0 +1,20 @@
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\MyAgendaDAO\bin\Debug\MyAgendaDAO.dll
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\MyAgendaDAO\bin\Debug\MyAgendaDAO.pdb
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\MyAgendaDAO\bin\Debug\MyAgendaDTO.dll
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\MyAgendaDAO\bin\Debug\Transaccion.Datos.dll
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\MyAgendaDAO\bin\Debug\MyAgendaDTO.pdb
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\MyAgendaDAO\obj\Debug\MyAgendaDAO.csprojAssemblyReference.cache
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\MyAgendaDAO\obj\Debug\MyAgendaDAO.csproj.CoreCompileInputs.cache
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\MyAgendaDAO\obj\Debug\MyAgendaDAO.csproj.CopyComplete
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\MyAgendaDAO\obj\Debug\MyAgendaDAO.dll
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\MyAgendaDAO\obj\Debug\MyAgendaDAO.pdb
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\MyAgendaDAO\bin\Debug\MyAgendaDAO.dll
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\MyAgendaDAO\bin\Debug\MyAgendaDAO.pdb
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\MyAgendaDAO\bin\Debug\MyAgendaDTO.dll
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\MyAgendaDAO\bin\Debug\Transaccion.Datos.dll
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\MyAgendaDAO\bin\Debug\MyAgendaDTO.pdb
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\MyAgendaDAO\obj\Debug\MyAgendaDAO.csprojAssemblyReference.cache
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\MyAgendaDAO\obj\Debug\MyAgendaDAO.csproj.CoreCompileInputs.cache
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\MyAgendaDAO\obj\Debug\MyAgendaDAO.csproj.CopyComplete
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\MyAgendaDAO\obj\Debug\MyAgendaDAO.dll
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\MyAgendaDAO\obj\Debug\MyAgendaDAO.pdb

@@ -1,0 +1,38 @@
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\WcfServMyAgenda\bin\WcfServMyAgenda.dll.config
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\WcfServMyAgenda\bin\WcfServMyAgenda.dll
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\WcfServMyAgenda\bin\WcfServMyAgenda.pdb
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\WcfServMyAgenda\bin\MyAgendaBLL.dll
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\WcfServMyAgenda\bin\MyAgendaDAO.dll
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\WcfServMyAgenda\bin\MyAgendaDTO.dll
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\WcfServMyAgenda\bin\System.Threading.dll
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\WcfServMyAgenda\bin\Transaccion.Datos.dll
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\WcfServMyAgenda\bin\MyAgendaSA.dll
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\WcfServMyAgenda\bin\MyAgendaBLL.pdb
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\WcfServMyAgenda\bin\MyAgendaDAO.pdb
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\WcfServMyAgenda\bin\MyAgendaDTO.pdb
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\WcfServMyAgenda\bin\System.Threading.xml
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\WcfServMyAgenda\bin\MyAgendaSA.pdb
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\WcfServMyAgenda\obj\Debug\WcfServMyAgenda.csprojAssemblyReference.cache
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\WcfServMyAgenda\obj\Debug\WcfServMyAgenda.csproj.CoreCompileInputs.cache
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\WcfServMyAgenda\obj\Debug\WcfServMyAgenda.csproj.CopyComplete
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\WcfServMyAgenda\obj\Debug\WcfServMyAgenda.dll
+C:\PersonalProjects\WS\WCF_Agenda\WcfServMyAgenda\WcfServMyAgenda\obj\Debug\WcfServMyAgenda.pdb
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\WcfServMyAgenda\bin\WcfServMyAgenda.dll.config
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\WcfServMyAgenda\bin\WcfServMyAgenda.dll
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\WcfServMyAgenda\bin\WcfServMyAgenda.pdb
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\WcfServMyAgenda\bin\MyAgendaBLL.dll
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\WcfServMyAgenda\bin\MyAgendaDAO.dll
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\WcfServMyAgenda\bin\MyAgendaDTO.dll
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\WcfServMyAgenda\bin\System.Threading.dll
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\WcfServMyAgenda\bin\Transaccion.Datos.dll
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\WcfServMyAgenda\bin\MyAgendaSA.dll
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\WcfServMyAgenda\bin\MyAgendaBLL.pdb
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\WcfServMyAgenda\bin\MyAgendaDAO.pdb
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\WcfServMyAgenda\bin\MyAgendaDTO.pdb
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\WcfServMyAgenda\bin\System.Threading.xml
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\WcfServMyAgenda\bin\MyAgendaSA.pdb
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\WcfServMyAgenda\obj\Debug\WcfServMyAgenda.csprojAssemblyReference.cache
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\WcfServMyAgenda\obj\Debug\WcfServMyAgenda.csproj.CoreCompileInputs.cache
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\WcfServMyAgenda\obj\Debug\WcfServMyAgenda.csproj.CopyComplete
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\WcfServMyAgenda\obj\Debug\WcfServMyAgenda.dll
+C:\Users\EnriqueLG\Desktop\My Documents\ProjetcsGit\WcfServMyAgenda\WcfServMyAgenda\obj\Debug\WcfServMyAgenda.pdb
